@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevPeter
 - 👀 I’m interested in ... Programming and Tennis 
-- 🌱 I’m currently learning ... Android development
+- 🌱 I’m currently learning ... Backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
